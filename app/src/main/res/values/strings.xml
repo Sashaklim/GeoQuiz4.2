@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">GeoQuiz4.2</string>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="question_australia">1. Канберра — столица Австралии.</string>
+    <string name="question_oceans">2. Тихий океан больше Атлантического.</string>
+    <string name="question_mideast">3. Суэцкий канал соединяет Красное море и Средиземное.</string>
+    <string name="question_africa">4. Исток Нила находится в Египте.</string>
+    <string name="question_americas">5. Амазонка — самая длинная река в Америке.</string>
+    <string name="question_asia">6. Озеро Байкал — самое глубокое пресноводное озеро в мире.</string>
+    <string name="question_everest">7. Эверест находится на границе Непала и Китая.</string>
+    <string name="question_europe">8. Ватикан — самое маленькое государство в Европе.</string>
+    <string name="question_countries">9. В мире более 200 стран.</string>
+    <string name="question_polar">10. Антарктида — это самая холодная часть Земли.</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Неверно!</string>
+
+    <string name="warning_text">Вы уверены, что хотите это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="cheat_button">Подсказка</string>
+    <string name="judgment_toast">Обманывать нехорошо.</string>
+
+    <string name="next_button">→</string>
+    <string name="prev_button">←</string>
+    <string name="title_activity_cheat">Подсказка</string>
+
+    <string name="final_score_text">Правильных ответов: %1$d из %2$d</string>
+
+    <string name="reset_button">Сбросить</string>
 </resources>
